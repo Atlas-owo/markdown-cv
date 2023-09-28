@@ -3,12 +3,61 @@ layout: cv
 title: Zhicheng Wang's CV
 ---
 # Zhicheng Wang
-Physicist, Mathematician, Cambridge professor.
+HCI, CS, New Media, Digital Fabrication and more.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="zhicheng.wang@aalto.fi">zhicheng.wang@aalto.fi</a>
 </div>
+
+## Education
+### Bachelor in Digital Media Technology
+
+`Sept. 2018 - July. 2022`
+
+School of Digital Media and Design Arts, Beijing University of Post and Telecommunication.
+
+### Master in Human Computer Interaction
+
+`Sept. 2022 - Now`
+
+School of Science, Aalto University.
+
+
+
+## Academic and Professional Experience
+
+### Lego IDEAS Project
+
+Institute for AI Industry Research, Tsinghua University
+
+May. 2021 - Sept. 2021
+
+Intern designer 
+
+Mentor: Jiasi Gao, Supervisor: Guyue Zhou
+
+Worked on an interactive flight simulation system which contains two parts: a LEGO model of a DJI Phantom I drone,
+and a virtual simulation program on the mobile platform.
+- Designed a lifting system controlled with a LEGO Mindstrom EV3 to simulate the flight altitude of the
+drone, and the base of the drone model.
+- Developed the simulation program base on Unity engine with pedestrian and simplified traffic simulation.
+
+### SPM-CogVR Program
+
+Institute for Interdisciplinary Research, BUPT
+
+June 2021 - July 2022
+
+Designer, Developer Mentor: Li Gao, Mingying Lan
+
+A Shopping Virtual Reality Training System Designed for People with Dementia.
+
+- Designed and developed the supermarket shopping scene that was used in the study.
+- Served as one of the main experimenter during the testing section of study.
+- Analysed and visualized the movement data collected from the testing section.
+
+
+
 
 
 ## Currently
@@ -25,20 +74,6 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
