@@ -10,17 +10,17 @@ HCI, CS, New Media, Digital Fabrication and more.
 </div>
 
 ## Education
-### Bachelor in Digital Media Technology
+### Beijing University of Post and Telecommunication
 
-`Sept. 2018 - July. 2022`
+`2018 - 2022`
 
-School of Digital Media and Design Arts, Beijing University of Post and Telecommunication.
+Bachelor in Digital Media Technology, School of Digital Media and Design Arts.
 
-### Master in Human Computer Interaction
+### Aalto University
 
-`Sept. 2022 - Now`
+`2022 - Now`
 
-School of Science, Aalto University.
+Master in Human Computer Interaction, School of Science.
 
 
 
@@ -28,9 +28,9 @@ School of Science, Aalto University.
 
 ### Lego IDEAS Project
 
-Institute for AI Industry Research, Tsinghua University
+`May. - Sept. 2021`
 
-May. 2021 - Sept. 2021
+Institute for AI Industry Research, Tsinghua University
 
 Intern designer 
 
@@ -44,9 +44,9 @@ drone, and the base of the drone model.
 
 ### SPM-CogVR Program
 
-Institute for Interdisciplinary Research, BUPT
+`2021 - 2022`
 
-June 2021 - July 2022
+Institute for Interdisciplinary Research, BUPT
 
 Designer, Developer Mentor: Li Gao, Mingying Lan
 
@@ -56,71 +56,17 @@ A Shopping Virtual Reality Training System Designed for People with Dementia.
 - Served as one of the main experimenter during the testing section of study.
 - Analysed and visualized the movement data collected from the testing section.
 
+### Digital Fabrication (Fab Academy courses)
+
+The Fab Academy is a fast paced, hands-on learning experience where students learn rapid-prototyping by planning and executing a new project each week, resulting in a personal portfolio of technical skills.
+
+## Skills
+
+• Programming: Python(and MATLAB) with machine learning and image processing tools, front end and
+back end web development, Unity 3D
+• Languages: English - Fluent(TOEFL score 106), Mandarin - Native speaker
+• Others: motion graphic design, cinematography, 2d&3d animation, sound effect design
 
 
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
