@@ -28,11 +28,9 @@ Master in Human Computer Interaction, School of Science.
 
 ### Lego IDEAS Project
 
-`May. - Sept. 2021`
+`2021`
 
 Institute for AI Industry Research, Tsinghua University
-
-Intern designer 
 
 Mentor: Jiasi Gao, Supervisor: Guyue Zhou
 
@@ -48,7 +46,7 @@ drone, and the base of the drone model.
 
 Institute for Interdisciplinary Research, BUPT
 
-Designer, Developer Mentor: Li Gao, Mingying Lan
+Mentor: Li Gao, Mingying Lan
 
 A Shopping Virtual Reality Training System Designed for People with Dementia.
 
@@ -58,15 +56,24 @@ A Shopping Virtual Reality Training System Designed for People with Dementia.
 
 ### Digital Fabrication (Fab Academy courses)
 
-The Fab Academy is a fast paced, hands-on learning experience where students learn rapid-prototyping by planning and executing a new project each week, resulting in a personal portfolio of technical skills.
+`2022 - 2023`
+
+Instructor: Krisjanis Rijnieks
+
+Digital Fabrication is a fast paced, hands-on learning experience where students learn rapid-prototyping by planning and executing a new project each week, resulting in a personal portfolio of technical skills.
 
 ## Skills
 
-• Programming: Python(and MATLAB) with machine learning and image processing tools, front end and
-back end web development, Unity 3D
-• Languages: English - Fluent(TOEFL score 106), Mandarin - Native speaker
-• Others: motion graphic design, cinematography, 2d&3d animation, sound effect design
+### Programming
 
+Python(and MATLAB) with machine learning and image processing tools, front end and back end web development, Unity 3D
 
+### Languages
+
+English - Fluent(TOEFL score 106), Mandarin - Native speaker
+
+### New media design and production:
+
+motion graphic design, cinematography, 2d&3d animation, sound effect design
 
 
