@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Zhicheng Wang's CV
 ---
-# Isaac Newton
+# Zhicheng Wang
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
